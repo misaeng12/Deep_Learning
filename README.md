@@ -1,3 +1,3 @@
 ## Deep_Learning
 
-Studying Deep Learning such as DNN, CNN, RNN, and LSTM
+Study of Deep Learning such as DNN, CNN, RNN, and LSTM
